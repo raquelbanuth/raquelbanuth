@@ -1,9 +1,9 @@
-Hello! 👋 
+Olá! 👋 
 I'm Raquel 
 
-🏡 I'm a Consumer Insights Senior Analyst at **QuintoAndar**
+🏡 Sou analista sênior de Consumer Insights no QuintoAndar.
 
-📚 I'm a specialist in **Data Science and Analytics** (USP), as well as a **psychologist** (USP) with a master's degree in **Anthropology** (Unicamp).
+📚 Tenho um MBA em **Data Science and Analytics** (USP). Sou **psicóloga** (USP) e mestre em **Antropologia** (Unicamp).
 
 ##
 
