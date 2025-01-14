@@ -1,9 +1,13 @@
 Olá! 👋 
-I'm Raquel 
+Me chamo Raquel Banuth.
 
-🏡 Sou analista sênior de Consumer Insights no QuintoAndar.
+🏡 Trabalho como analista sênior de Consumer Insights no QuintoAndar.
 
-📚 Tenho um MBA em **Data Science and Analytics** (USP). Sou **psicóloga** (USP) e mestre em **Antropologia** (Unicamp).
+📚 Também sou **orientadora** de TCC nos MBAs em Marketing, Gestão de Negócios e Varejo Físico e Online da USP, onde oriento pesquisas de diversos temas relacionados a comportamento do consumidor.
+
+👩🏻‍🎓 Sou **psicóloga** (USP) e mestre em **Antropologia** (Unicamp). Comecei a me interessar por análise de dados e estatística após iniciar minha carreira em pesquisa, e concluí uma especialização em **Data Science and Analytics** (USP).
+
+
 
 ##
 
@@ -25,6 +29,7 @@ I'm Raquel
  />
 
 ##
+
 
 <div>
 <a href = "mailto:raquel.fbanuth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
